@@ -1,7 +1,3 @@
- i want to combine two indicator in one
-below is the pine script of the first one
-
-
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © Bjorgum
 
